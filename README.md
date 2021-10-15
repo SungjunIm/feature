@@ -1,6 +1,3 @@
-# feature
-
-게시판 구현 코드로 
-user 생성으로부터 시작하여 게시판 작성 및 조회를 할 수 있다.
-또한, 제목을 통해 게시판을 검색할 수 있다.
-추가적으로 댓글도 작성할 수 있다.
+두번째 방법 
+<a href="#"><img src="https://github.com/SungjunIm/feature/blob/main/images/LOGO_1.png"></a> 
+Format: img 태그 사용 - 이미지경로는 상대경로 or 절대경로

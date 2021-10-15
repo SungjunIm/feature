@@ -1,6 +1,8 @@
-# feature
+<p align="center"><a href="#">
+<img src="https://github.com/SungjunIm/feature/blob/main/images/LOGO_3.png"></a> 
+</p>
 
-게시판 구현 코드로 
-user 생성으로부터 시작하여 게시판 작성 및 조회를 할 수 있다.
-또한, 제목을 통해 게시판을 검색할 수 있다.
-추가적으로 댓글도 작성할 수 있다.
+<p align="center">
+    <a href="https://docs.codesquare.space">Documentation</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/osamhack2020/WEB_CodeSquare_AmongUs/tree/master/PPT">PPT</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://youtu.be/ilhsXxxd2V0">Demo Video</a>
+
+</p>

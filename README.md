@@ -1,5 +1,5 @@
 <p align="center"><a href="#">
-<img src="https://github.com/SungjunIm/feature/blob/main/images/LOGO_2.png"></a> 
+<img src="https://github.com/SungjunIm/feature/blob/main/images/LOGO_3.png"></a> 
 </p>
 
 <p align="center">
